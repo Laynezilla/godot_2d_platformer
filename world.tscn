@@ -14,5 +14,5 @@ polygon = PackedVector2Array(0, 0, 16, 0, 16, 104, 48, 104, 80, 120, 112, 112, 1
 [node name="Polygon2D" type="Polygon2D" parent="StaticBody2D/CollisionPolygon2D"]
 color = Color(0.0705882, 0.12549, 0.054902, 1)
 
-[node name="CharacterBody2D" parent="." instance=ExtResource("2_n1b8d")]
+[node name="Charles" parent="." instance=ExtResource("2_n1b8d")]
 position = Vector2(32, 16)

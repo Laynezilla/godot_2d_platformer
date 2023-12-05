@@ -8,6 +8,7 @@ var gravity = ProjectSettings.get_setting("physics/2d/default_gravity")
 
 @onready var animated_sprite_2d = $AnimatedSprite2D
 @onready var collision_shape = $CollisionShape2D
+
 var was_on_floor = true
 var landing_animation = false
 
